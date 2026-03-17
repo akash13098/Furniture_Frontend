@@ -1,0 +1,26 @@
+[
+  {
+    "id": "living-room",
+    "name": "Living Room",
+    "description": "Curated pieces that transform living spaces into sanctuaries of comfort and style. Each item is selected for its ability to balance form with everyday function.",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=2000"
+  },
+  {
+    "id": "dining-room",
+    "name": "Dining Room",
+    "description": "Where craftsmanship meets conviviality. Our dining collection celebrates the ritual of gathering, with tables and chairs designed for lingering conversations.",
+    "image": "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&q=80&w=2000"
+  },
+  {
+    "id": "bedroom",
+    "name": "Bedroom",
+    "description": "A retreat from the world. Our bedroom collection prioritizes serenity through clean lines, natural materials, and a palette drawn from the earth.",
+    "image": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&q=80&w=2000"
+  },
+  {
+    "id": "office",
+    "name": "Office",
+    "description": "Workspaces designed to inspire. Our office collection merges productivity with aesthetics, creating environments where ideas flourish.",
+    "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=2000"
+  }
+]

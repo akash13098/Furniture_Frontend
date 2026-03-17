@@ -1,0 +1,178 @@
+[
+  {
+    "id": "edition-lounge-chair",
+    "name": "Edition Lounge Chair",
+    "price": 3200,
+    "category": "Living Room",
+    "description": "A study in balance and proportion. Hand-finished solid wood frame with premium aniline leather upholstery. Each piece is crafted by master artisans using traditional joinery techniques.",
+    "dimensions": "80cm × 70cm × 90cm",
+    "materials": ["Solid Walnut", "Full-grain Leather"],
+    "colors": ["walnut", "oak", "black"],
+    "images": {
+      "walnut": [
+        "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "oak": [
+        "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "black": [
+        "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  },
+  {
+    "id": "arc-dining-table",
+    "name": "Arc Dining Table",
+    "price": 4800,
+    "category": "Dining Room",
+    "description": "Sculptural dining table with a sweeping base carved from a single piece of solid ash. The tabletop features book-matched veneer for a symmetrical grain pattern.",
+    "dimensions": "220cm × 100cm × 75cm",
+    "materials": ["Solid Ash", "Natural Veneer"],
+    "colors": ["walnut", "oak"],
+    "images": {
+      "walnut": [
+        "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "oak": [
+        "https://images.unsplash.com/photo-1615066390971-03e4e1c36ddf?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  },
+  {
+    "id": "haven-sofa",
+    "name": "Haven Modular Sofa",
+    "price": 6500,
+    "category": "Living Room",
+    "description": "Modular seating system designed for contemporary living. Deep cushions filled with down and high-resilience foam provide unparalleled comfort.",
+    "dimensions": "280cm × 100cm × 80cm",
+    "materials": ["Bouclé Fabric", "Solid Oak Frame"],
+    "colors": ["oak", "walnut", "black"],
+    "images": {
+      "oak": [
+        "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "walnut": [
+        "https://images.unsplash.com/photo-1540574163026-643ea20ade25?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "black": [
+        "https://images.unsplash.com/photo-1558211583-d26f610c1eb1?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1567016432779-094069958ea5?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  },
+  {
+    "id": "forma-bed-frame",
+    "name": "Forma Platform Bed",
+    "price": 3800,
+    "category": "Bedroom",
+    "description": "Floating platform bed with an integrated headboard. The minimalist silhouette conceals a robust steel subframe for lasting durability.",
+    "dimensions": "200cm × 180cm × 85cm",
+    "materials": ["Solid Oak", "Brushed Steel"],
+    "colors": ["oak", "walnut", "black"],
+    "images": {
+      "oak": [
+        "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "walnut": [
+        "https://images.unsplash.com/photo-1588046130717-0eb0c9a3ba15?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "black": [
+        "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  },
+  {
+    "id": "cipher-desk",
+    "name": "Cipher Writing Desk",
+    "price": 2400,
+    "category": "Office",
+    "description": "A refined workspace with hidden cable management and a leather-inlaid writing surface. The tapered legs convey lightness despite its generous proportions.",
+    "dimensions": "140cm × 65cm × 76cm",
+    "materials": ["American Walnut", "Saddle Leather"],
+    "colors": ["walnut", "oak"],
+    "images": {
+      "walnut": [
+        "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1593062096033-9a26b09da705?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "oak": [
+        "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1587212786749-f9c15cb0db91?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  },
+  {
+    "id": "luna-pendant",
+    "name": "Luna Pendant Light",
+    "price": 890,
+    "category": "Living Room",
+    "description": "Hand-blown glass pendant with a warm ambient glow. The organic form is inspired by celestial bodies and crafted in small batches.",
+    "dimensions": "Ø45cm × 40cm",
+    "materials": ["Blown Glass", "Brushed Brass"],
+    "colors": ["oak", "black"],
+    "images": {
+      "oak": [
+        "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1507473885765-e6ed057ab6fe?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "black": [
+        "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  },
+  {
+    "id": "vero-dining-chair",
+    "name": "Vero Dining Chair",
+    "price": 1100,
+    "category": "Dining Room",
+    "description": "Ergonomically sculpted dining chair with a woven rattan backrest. The solid wood frame is finished with hand-rubbed oil for a natural tactile quality.",
+    "dimensions": "50cm × 55cm × 82cm",
+    "materials": ["Solid Oak", "Natural Rattan"],
+    "colors": ["oak", "walnut", "black"],
+    "images": {
+      "oak": [
+        "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "walnut": [
+        "https://images.unsplash.com/photo-1581539250439-c96689b516dd?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "black": [
+        "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  },
+  {
+    "id": "noma-bookshelf",
+    "name": "Noma Open Bookshelf",
+    "price": 2100,
+    "category": "Office",
+    "description": "Architectural open shelving unit with asymmetric compartments. The blackened steel frame and solid wood shelves create a striking interplay of materials.",
+    "dimensions": "120cm × 35cm × 180cm",
+    "materials": ["Blackened Steel", "Solid Walnut"],
+    "colors": ["walnut", "oak"],
+    "images": {
+      "walnut": [
+        "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1000"
+      ],
+      "oak": [
+        "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&q=80&w=1000",
+        "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&q=80&w=1000"
+      ]
+    }
+  }
+]
